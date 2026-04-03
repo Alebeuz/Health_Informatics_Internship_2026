@@ -1,4 +1,4 @@
-# LEMS-CT: Lower Extremity Myocardium CT Segmentation
+# LEMS-CT: Late Enhancement Myocardium CT Segmentation
 
 Automatic segmentation of heart myocardium from CT angiography scans of TAVI (Transcatheter Aortic Valve Implantation) patients. Built with PyTorch and [MONAI](https://monai.io/), trained and tracked on Azure Machine Learning with 5-fold cross-validation.
 
