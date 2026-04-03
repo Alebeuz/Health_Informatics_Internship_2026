@@ -34,7 +34,4 @@ dependencies:
       - scipy
       - scikit-image
       - matplotlib
-      - tqdm
-      - psutil
-      - nvidia-ml-py
-      - omegaconf
+      - nnunetv2
